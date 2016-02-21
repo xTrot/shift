@@ -12,3 +12,4 @@
 	- npm install (needs admin priviledges)
 4. Run server:
 	- npm start
+5. Access this server from: http://localhost:3000
